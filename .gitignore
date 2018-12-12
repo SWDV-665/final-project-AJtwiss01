@@ -1,0 +1,14 @@
+node_modules
+/node_modules
+
+platforms
+/platforms
+
+plugins
+/plugins
+
+www
+/www
+
+.DS_Store
+/.DS_Store
